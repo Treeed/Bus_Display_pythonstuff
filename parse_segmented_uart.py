@@ -1,7 +1,7 @@
 import re
 from collections import defaultdict
 
-base_dir = r"C:\Users\jona\Documents\bus display"
+base_dir = r"./saleae"
 
 
 def read_can_dump(filename):
